@@ -24,6 +24,10 @@ parse the data using BeautifulSoup. I then feed the parsed data to the rake libr
 and prominent keywords in that blog article. These relevant keywords are then matched with the ads present in our 
 database and gives us back the ads which are most relevant to the blog post.
 
-Finally, I style the web application with Tailwind
+Finally, I style the web application with Tailwind.
 
 ## Screenshots:
+![Screenshot (1251)](https://github.com/GnanaDeepthiPasam/Contextual-Advertising-Search-Platform/assets/148503787/7a938af4-6f39-4f6d-a118-7c37659df88d)
+![Screenshot (1252)](https://github.com/GnanaDeepthiPasam/Contextual-Advertising-Search-Platform/assets/148503787/f1cf9425-de97-40b5-9c20-a22f0cb4cdbb)
+
+
